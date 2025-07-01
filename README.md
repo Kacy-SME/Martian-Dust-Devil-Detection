@@ -31,10 +31,10 @@ Below are animated examples of dust devil detections from Perseverance rover ima
 ###Test Images
 
 ### Sol 1398 – Perseverance, NavCam Left
-![Dust Devil Sol 1398](gifs/sol153_dd50.gif)
+![Dust Devil Sol 1398](PNV1398.gif)
 
 ### Sol 1120 – Spirit, NavCam Left
-![Dust Devil Sol 1120](gifs/sol113_dd20.gif)
+![Dust Devil Sol 1120](SNV1120.gif)
 
 ###Our Novel Detections
 
