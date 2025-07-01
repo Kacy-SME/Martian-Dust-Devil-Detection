@@ -24,3 +24,19 @@ Our fine-tuned Faster R-CNN model with ResNet-50 backbone and Feature Pyramid Ne
 | APsmall| 6.58320000                  | 0.00000000                  | 
 
 This significant performance gap demonstrates the importance of domain-specific training for detecting these challenging atmospheric phenomena.
+## Inferred Dust Devil Examples
+
+Below are animated examples of dust devil detections from Perseverance rover imagery. The bounding boxes show the model’s inference across sequential frames, capturing faint and dynamic atmospheric events.
+
+###Test Images
+
+### Sol 1398 – Perseverance, NavCam Left
+![Dust Devil Sol 1398](gifs/sol153_dd50.gif)
+
+### Sol 1120 – Spirit, NavCam Left
+![Dust Devil Sol 1120](gifs/sol113_dd20.gif)
+
+###Our Novel Detections
+
+These detections demonstrate the model's ability to localize low-opacity, rapidly changing dust devils that are often imperceptible in static frames. Each GIF contains 3–5 consecutive images used in inference.
+
