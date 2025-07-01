@@ -28,15 +28,15 @@ This significant performance gap demonstrates the importance of domain-specific 
 
 Below are animated examples of dust devil detections from Perseverance rover imagery. The bounding boxes show the model’s inference across sequential frames, capturing faint and dynamic atmospheric events.
 
-###Test Images
+## Our Novel Detections
+![Dust Devil Sol 1398](PNV1398.gif)
+## Test Images
 
 ### Sol 1398 – Perseverance, NavCam Left
 ![Dust Devil Sol 1398](PNV1398.gif)
 
 ### Sol 1120 – Spirit, NavCam Left
 ![Dust Devil Sol 1120](SNV1120.gif)
-
-###Our Novel Detections
 
 These detections demonstrate the model's ability to localize low-opacity, rapidly changing dust devils that are often imperceptible in static frames. Each GIF contains 3–5 consecutive images used in inference.
 
