@@ -4,6 +4,24 @@ Dust devils are vertical vortices that entrain dust from the surface into the at
 
 Our research demonstrates the first successful application of Faster R-CNN to detect dust devils in ground-based Martian rover imagery. We show that domain-specific training enables detection of these low-opacity, amorphous phenomena that generic object detection algorithms typically miss.
 
+
+## Inferred Dust Devil Examples
+
+Below are animated examples of dust devil detections from Perseverance rover imagery. The bounding boxes show the model’s inference across sequential frames, capturing faint and dynamic atmospheric events.
+
+## Our Novel Detections
+![Dust Devil Sol 52](gifs/dust_devil_sol0052.gif)
+![Dust Devil Sol 52](gifs/dust_devil_sol0052.gif)
+
+## Test Images
+
+### Sol 1398 – Perseverance, NavCam Left
+![Dust Devil Sol 1398](PNV1398.gif)
+
+### Sol 1120 – Spirit, NavCam Left
+![Dust Devil Sol 1120](SNV1120.gif)
+
+These detections demonstrate the model's ability to localize low-opacity, rapidly changing dust devils that are often imperceptible in static frames. Each GIF contains 3–5 consecutive images used in inference.
 ## Dataset
 
 Our analysis used 552 images from the Spirit, Opportunity, and Perseverance rovers:
@@ -24,19 +42,5 @@ Our fine-tuned Faster R-CNN model with ResNet-50 backbone and Feature Pyramid Ne
 | APsmall| 6.58320000                  | 0.00000000                  | 
 
 This significant performance gap demonstrates the importance of domain-specific training for detecting these challenging atmospheric phenomena.
-## Inferred Dust Devil Examples
 
-Below are animated examples of dust devil detections from Perseverance rover imagery. The bounding boxes show the model’s inference across sequential frames, capturing faint and dynamic atmospheric events.
-
-## Our Novel Detections
-![Dust Devil Sol 1398](PNV1398.gif)
-## Test Images
-
-### Sol 1398 – Perseverance, NavCam Left
-![Dust Devil Sol 1398](PNV1398.gif)
-
-### Sol 1120 – Spirit, NavCam Left
-![Dust Devil Sol 1120](SNV1120.gif)
-
-These detections demonstrate the model's ability to localize low-opacity, rapidly changing dust devils that are often imperceptible in static frames. Each GIF contains 3–5 consecutive images used in inference.
 
