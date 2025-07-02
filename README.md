@@ -11,7 +11,7 @@ Below are animated examples of dust devil detections from Perseverance rover ima
 
 ## Our Novel Detections
 ![Dust Devil Sol 52](gifs/dust_devils_sol0052.gif)
-![Dust Devil Sol 52](gifs/dust_devils_sol0102.gif)
+![Dust Devil Sol 102](gifs/dust_devils_sol0102.gif)
 
 ## Test Images
 
