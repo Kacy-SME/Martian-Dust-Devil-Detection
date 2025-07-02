@@ -10,8 +10,20 @@ Our research demonstrates the first successful application of Faster R-CNN to de
 Below are animated examples of dust devil detections from Perseverance rover imagery. The bounding boxes show the model’s inference across sequential frames, capturing faint and dynamic atmospheric events.
 
 ## Our Novel Detections
-![Dust Devil Sol 52](gifs/dust_devils_sol0052.gif)
-![Dust Devil Sol 102](gifs/dust_devils_sol0102.gif)
+### Sol 52 – Perseverance
+![Dust Devil Sol 52](gifs/dust_devils_sol_0052.gif)
+
+### Sol 102 – Perseverance
+![Dust Devil Sol 102](gifs/dust_devils_sol_0102.gif)
+
+### Sol 113 – Perseverance
+![Dust Devil Sol 113](gifs/dust_devils_sol_0113.gif)
+
+### Sol 120 – Perseverance
+![Dust Devil Sol 120](gifs/dust_devils_sol_0120.gif)
+
+### Sol 153 – Perseverance
+![Dust Devil Sol 153](gifs/dust_devils_sol_0153.gif)
 
 ## Test Images
 
