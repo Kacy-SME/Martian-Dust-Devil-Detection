@@ -17,20 +17,60 @@ Below are animated examples of dust devil detections from Perseverance rover ima
 ![Dust Devil Sol 52](gifs/dust_devils_sol_0052.gif)
 
 ### Sol 57 - Perserverance
-![Dust Devil Sol 57](sol57_sequence (8).gif)
-![Dust Devil Sol 57](sol57_differences (8).gif)
+![Dust Devil Sol 57](gifs/dust_devils_sol_0057_sequence.gif)
+![Dust Devil Sol 57](gifs/dust_devils_sol_0057_difference.gif)
+
+### Sol 76 - Perserverance
+![Dust Devil Sol 76](gifs/dust_devils_sol_0076_sequence.gif)
+![Dust Devil Sol 76](gifs/dust_devils_sol_0076_difference.gif)
+
+### Sol 84 - Perserverance
+![Dust Devil Sol 84](gifs/dust_devils_sol_0084_sequence.gif)
+![Dust Devil Sol 84](gifs/dust_devils_sol_0084_difference.gif)
+
+### Sol 100 - Perserverance
+![Dust Devil Sol 100](gifs/dust_devils_sol_0100_sequence.gif)
+![Dust Devil Sol 100](gifs/dust_devils_sol_0100_difference.gif)
 
 ### Sol 102 – Perseverance
 ![Dust Devil Sol 102](gifs/dust_devils_sol_0102.gif)
 
+### Sol 106 - Perserverance
+![Dust Devil Sol 106](gifs/dust_devils_sol_0106_sequence.gif)
+![Dust Devil Sol 106](gifs/dust_devils_sol_0106_difference.gif)
+
+### Sol 107 - Perserverance
+![Dust Devil Sol 107](gifs/dust_devils_sol_0107_sequence.gif)
+![Dust Devil Sol 107](gifs/dust_devils_sol_0107_difference.gif)
+
 ### Sol 113 – Perseverance
 ![Dust Devil Sol 113](gifs/dust_devils_sol_0113.gif)
+
+### Sol 114 - Perserverance
+![Dust Devil Sol 114](gifs/dust_devils_sol_0114_sequence.gif)
+![Dust Devil Sol 114](gifs/dust_devils_sol_0114_difference.gif)
 
 ### Sol 120 – Perseverance
 ![Dust Devil Sol 120](gifs/dust_devils_sol_0120.gif)
 
+### Sol 123 - Perserverance
+![Dust Devil Sol 123](gifs/dust_devils_sol_0123_sequence.gif)
+![Dust Devil Sol 123](gifs/dust_devils_sol_0123_difference.gif)
+
+### Sol 151 - Perserverance
+![Dust Devil Sol 151](gifs/dust_devils_sol_0151_sequence.gif)
+![Dust Devil Sol 151](gifs/dust_devils_sol_0151_difference.gif)
+
 ### Sol 153 – Perseverance
 ![Dust Devil Sol 153](gifs/dust_devils_sol_0153.gif)
+
+### Sol 154 - Perserverance
+![Dust Devil Sol 154](gifs/dust_devils_sol_0154_sequence.gif)
+![Dust Devil Sol 154](gifs/dust_devils_sol_0154_difference.gif)
+
+### Sol 174 - Perserverance
+![Dust Devil Sol 174](gifs/dust_devils_sol_0174_sequence.gif)
+![Dust Devil Sol 174](gifs/dust_devils_sol_0174_difference.gif)
 
 ## Test Images
 
