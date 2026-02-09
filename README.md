@@ -37,7 +37,7 @@ Below are animated examples of dust devil detections from Perseverance rover ima
 
 ### Sol 106 - Perserverance
 ![Dust Devil Sol 106](gifs/dust_devils_sol_0106_sequence_annotated.gif)
-![Dust Devil Sol 106](gifs/dust_devils_sol_0106_difference.gif)
+![Dust Devil Sol 106](gifs/sol106_differences.gif)
 
 ### Sol 107 - Perserverance
 ![Dust Devil Sol 107](gifs/dust_devils_sol_0107_sequence_annotated.gif)
